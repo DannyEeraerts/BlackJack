@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  font-size: 1.25rem;
+  text-align: center;
+}
+.navbar.bg-dark{
+  border: 1px solid white;
+}
+header h1{
+  font-size: 4rem;
+  text-align: center;
+}
+a:hover{
+  text-decoration: none;
+}
+footer{
+  padding: 1rem;
+  border: solid 1px white;
+  margin: 0 1px!important;
+}
+footer p, h5{
+  margin:0;
+}
+footer a{
+  color: rgba(255,255,255,0.5);
+}
+footer a:hover{
+  color: white;
+}
